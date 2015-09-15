@@ -14,3 +14,5 @@ c9에서 만든 것을 github의 repository에 저장할 수 있음(원격저장
 
 html에서 ‘m'은 mark-up(nav, div 등의 마크)
 md는 mark-down으로 간단하게 꾸밀 수 있도록
+
+이상 2강 노트
